@@ -1,0 +1,5930 @@
+{
+  "students": [
+    {
+      "last": "COOKUS",
+      "first": "XUAN",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "SCHOENECKER",
+      "first": "PHUONG",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "0"
+    },
+    {
+      "last": "ELHADDAD",
+      "first": "SHANTE",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "RACANELLO",
+      "first": "NOEL",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "WOOLERY",
+      "first": "NOLAN",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "STERBACK",
+      "first": "PETER",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "51"
+    },
+    {
+      "last": "FINCHMAN",
+      "first": "MATHILDA",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "0"
+    },
+    {
+      "last": "VILARDO",
+      "first": "EMMANUEL",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "HYE",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "0"
+    },
+    {
+      "last": "CORKER",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "IMMERMAN",
+      "first": "DEVIN",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "LIBRANDI",
+      "first": "TODD",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "51"
+    },
+    {
+      "last": "SWEDLUND",
+      "first": "SHARRI",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "55"
+    },
+    {
+      "last": "ZAPPAVIGNA",
+      "first": "ELLIOTT",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "OBREIN",
+      "first": "STAN",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "52"
+    },
+    {
+      "last": "RAPOSE",
+      "first": "ALONZO",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "DIMPLE",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "WORBINGTON",
+      "first": "DEEDRA",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "MANIE",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "53"
+    },
+    {
+      "last": "HAVIR",
+      "first": "BOBBIE",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "0"
+    },
+    {
+      "last": "OGAS",
+      "first": "ERVIN",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "SPANICEK",
+      "first": "KENDRA",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "SAENPHIMMACHA",
+      "first": "NUMBERS",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "GUICE",
+      "first": "CODI",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "BOYTER",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "BREVO",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "54"
+    },
+    {
+      "last": "SARAO",
+      "first": "DIEDRA",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "FLOY",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "TOMAS",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "51"
+    },
+    {
+      "last": "EARLY",
+      "first": "TORY",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "VANCOTT",
+      "first": "MIKE",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "WICINSKY",
+      "first": "TERESE",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "53"
+    },
+    {
+      "last": "KRAKE",
+      "first": "VALENTIN",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "56"
+    },
+    {
+      "last": "GLOR",
+      "first": "HUNG",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "KOZOLA",
+      "first": "BUSTER",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "55"
+    },
+    {
+      "last": "KEMERER",
+      "first": "ROSETTA",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "BEAN",
+      "first": "INGER",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "56"
+    },
+    {
+      "last": "MULLINGS",
+      "first": "LEIGHANN",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "51"
+    },
+    {
+      "last": "SAELEE",
+      "first": "DANILO",
+      "grade": "1",
+      "classroom": "103",
+      "bus": "54"
+    },
+    {
+      "last": "GUM",
+      "first": "NOAH",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "BILLY",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "56"
+    },
+    {
+      "last": "BERBES",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "MULGREW",
+      "first": "RANDELL",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "LINHART",
+      "first": "LELA",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "53"
+    },
+    {
+      "last": "MASSART",
+      "first": "ELDON",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "0"
+    },
+    {
+      "last": "DEMARTINI",
+      "first": "DEWAYNE",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "GARTH",
+      "first": "JOHN",
+      "grade": "1",
+      "classroom": "103",
+      "bus": "0"
+    },
+    {
+      "last": "NOVICK",
+      "first": "ROLLAND",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "0"
+    },
+    {
+      "last": "THEUNISSEN",
+      "first": "GRACE",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "54"
+    },
+    {
+      "last": "FEYEREISEN",
+      "first": "WILFREDO",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "56"
+    },
+    {
+      "last": "DURAND",
+      "first": "CARLEE",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "BEX",
+      "first": "TAMESHA",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "DELUNA",
+      "first": "KRYSTAL",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "TOWLEY",
+      "first": "LANE",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "WERST",
+      "first": "LEON",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "LAMKIN",
+      "first": "TAMA",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "KREESE",
+      "first": "CARRIE",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "0"
+    },
+    {
+      "last": "FRIEDSTROM",
+      "first": "REED",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "ZANDRA",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "BREVO",
+      "first": "DICK",
+      "grade": "1",
+      "classroom": "106",
+      "bus": "52"
+    },
+    {
+      "last": "BREVO",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "RANDOLPH",
+      "grade": "3",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "TOMAS",
+      "grade": "5",
+      "classroom": "101",
+      "bus": "53"
+    },
+    {
+      "last": "COOKUS",
+      "first": "XUAN",
+      "grade": "3",
+      "classroom": "104",
+      "bus": "55"
+    },
+    {
+      "last": "BOYTER",
+      "first": "TOMAS",
+      "grade": "3",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "BREVO",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "56"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "CORONADO",
+      "first": "ZANDRA",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "106",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "DICK",
+      "grade": "4",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "CORKER",
+      "first": "HYE",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "BERBES",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "CARTER",
+      "grade": "1",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "XUAN",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "BEAN",
+      "first": "JANNETTE",
+      "grade": "1",
+      "classroom": "112",
+      "bus": "55"
+    },
+    {
+      "last": "COMO",
+      "first": "MANIE",
+      "grade": "1",
+      "classroom": "106",
+      "bus": "53"
+    },
+    {
+      "last": "BREVO",
+      "first": "XUAN",
+      "grade": "2",
+      "classroom": "101",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "XUAN",
+      "grade": "5",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "CORONADO",
+      "first": "INGER",
+      "grade": "5",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "COOKUS",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "55"
+    },
+    {
+      "last": "CORONADO",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "107",
+      "bus": "51"
+    },
+    {
+      "last": "BREVO",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DIMPLE",
+      "grade": "3",
+      "classroom": "106",
+      "bus": "53"
+    },
+    {
+      "last": "CORKER",
+      "first": "RANDOLPH",
+      "grade": "1",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "CARTER",
+      "grade": "3",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "CORONADO",
+      "first": "INGER",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "BEAN",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "51"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "TAMESHA",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "TAMESHA",
+      "grade": "2",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "52"
+    },
+    {
+      "last": "BEAN",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "110",
+      "bus": "55"
+    },
+    {
+      "last": "BERBES",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "51"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "HYE",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BOYTER",
+      "first": "INGER",
+      "grade": "6",
+      "classroom": "110",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "BILLY",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "FLOY",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "CARTER",
+      "grade": "6",
+      "classroom": "112",
+      "bus": "55"
+    },
+    {
+      "last": "BOYTER",
+      "first": "WAN",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "BEX",
+      "first": "JANNETTE",
+      "grade": "2",
+      "classroom": "107",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "FLOY",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "COMO",
+      "first": "DIMPLE",
+      "grade": "3",
+      "classroom": "106",
+      "bus": "56"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "HYE",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "54"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "FLOY",
+      "grade": "4",
+      "classroom": "104",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "FLOY",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "FLOY",
+      "grade": "3",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "INGER",
+      "grade": "1",
+      "classroom": "106",
+      "bus": "56"
+    },
+    {
+      "last": "BREVO",
+      "first": "XUAN",
+      "grade": "4",
+      "classroom": "110",
+      "bus": "53"
+    },
+    {
+      "last": "BEX",
+      "first": "FLOY",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "BILLY",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "BEX",
+      "first": "BILLY",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "55"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "JANNETTE",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "106",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "XUAN",
+      "grade": "1",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "MANIE",
+      "grade": "1",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "105",
+      "bus": "56"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "COOKUS",
+      "first": "WAN",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "56"
+    },
+    {
+      "last": "BEAN",
+      "first": "BILLY",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "56"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "JANNETTE",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "COOKUS",
+      "first": "RANDOLPH",
+      "grade": "5",
+      "classroom": "111",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "BEAN",
+      "first": "BILLY",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "51"
+    },
+    {
+      "last": "BREVO",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "101",
+      "bus": "54"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "TOMAS",
+      "grade": "3",
+      "classroom": "106",
+      "bus": "53"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "CORKER",
+      "first": "FLOY",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "ZANDRA",
+      "grade": "3",
+      "classroom": "104",
+      "bus": "53"
+    },
+    {
+      "last": "BOYTER",
+      "first": "RANDOLPH",
+      "grade": "5",
+      "classroom": "108",
+      "bus": "56"
+    },
+    {
+      "last": "BOYTER",
+      "first": "TOMAS",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "103",
+      "bus": "54"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "INGER",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "BEAN",
+      "first": "WAN",
+      "grade": "5",
+      "classroom": "106",
+      "bus": "53"
+    },
+    {
+      "last": "COOKUS",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "MANIE",
+      "grade": "3",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "CORKER",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "CORONADO",
+      "first": "INGER",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DICK",
+      "grade": "1",
+      "classroom": "108",
+      "bus": "51"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "COOKUS",
+      "first": "INGER",
+      "grade": "2",
+      "classroom": "110",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "HYE",
+      "grade": "3",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "FLOY",
+      "grade": "4",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "BERBES",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "ZANDRA",
+      "grade": "3",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "WAN",
+      "grade": "4",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BEAN",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "110",
+      "bus": "55"
+    },
+    {
+      "last": "BREVO",
+      "first": "TOMAS",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "107",
+      "bus": "51"
+    },
+    {
+      "last": "BREVO",
+      "first": "CARTER",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "54"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DIMPLE",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "55"
+    },
+    {
+      "last": "BERBES",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "52"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "BILLY",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DICK",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "COOKUS",
+      "first": "TOMAS",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "ZANDRA",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "56"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "101",
+      "bus": "55"
+    },
+    {
+      "last": "COMO",
+      "first": "BILLY",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "TAMESHA",
+      "grade": "1",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "BOYTER",
+      "first": "WAN",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "RANDOLPH",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "COOKUS",
+      "first": "ZANDRA",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "TAMESHA",
+      "grade": "1",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "CORONADO",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "102",
+      "bus": "51"
+    },
+    {
+      "last": "COOKUS",
+      "first": "HYE",
+      "grade": "5",
+      "classroom": "107",
+      "bus": "56"
+    },
+    {
+      "last": "COMO",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "56"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "CORONADO",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "MANIE",
+      "grade": "3",
+      "classroom": "104",
+      "bus": "55"
+    },
+    {
+      "last": "BREVO",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "BERBES",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "53"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "110",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "INGER",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "XUAN",
+      "grade": "1",
+      "classroom": "109",
+      "bus": "55"
+    },
+    {
+      "last": "BEAN",
+      "first": "TOMAS",
+      "grade": "4",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "ZANDRA",
+      "grade": "4",
+      "classroom": "102",
+      "bus": "53"
+    },
+    {
+      "last": "CORONADO",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "CARTER",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "110",
+      "bus": "54"
+    },
+    {
+      "last": "BEX",
+      "first": "TAMESHA",
+      "grade": "3",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "CORONADO",
+      "first": "HYE",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "FLOY",
+      "grade": "1",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "56"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "DIMPLE",
+      "grade": "6",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "CORONADO",
+      "first": "BILLY",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "TOMAS",
+      "grade": "6",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "ZANDRA",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "BREVO",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "103",
+      "bus": "56"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "ZANDRA",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "103",
+      "bus": "51"
+    },
+    {
+      "last": "COOKUS",
+      "first": "XUAN",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "BREVO",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "110",
+      "bus": "54"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "ZANDRA",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "CORONADO",
+      "first": "FLOY",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "MANIE",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "WAN",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "ZANDRA",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "55"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "TOMAS",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "ZANDRA",
+      "grade": "5",
+      "classroom": "106",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "111",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "HYE",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "55"
+    },
+    {
+      "last": "BERBES",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "51"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "MANIE",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "55"
+    },
+    {
+      "last": "BREVO",
+      "first": "ZANDRA",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "BILLY",
+      "grade": "2",
+      "classroom": "109",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "INGER",
+      "grade": "2",
+      "classroom": "101",
+      "bus": "53"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "JANNETTE",
+      "grade": "3",
+      "classroom": "101",
+      "bus": "54"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "CORKER",
+      "first": "FLOY",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "53"
+    },
+    {
+      "last": "CORKER",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "COMO",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "RANDOLPH",
+      "grade": "5",
+      "classroom": "101",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "HYE",
+      "grade": "1",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "CORONADO",
+      "first": "CARTER",
+      "grade": "1",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "DIMPLE",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "DICK",
+      "grade": "1",
+      "classroom": "110",
+      "bus": "53"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "BREVO",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "HYE",
+      "grade": "5",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "CORONADO",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "TAMESHA",
+      "grade": "2",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "BEAN",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "110",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "TAMESHA",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "COOKUS",
+      "first": "INGER",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "51"
+    },
+    {
+      "last": "COOKUS",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "JANNETTE",
+      "grade": "2",
+      "classroom": "109",
+      "bus": "55"
+    },
+    {
+      "last": "BEX",
+      "first": "DICK",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "WAN",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "53"
+    },
+    {
+      "last": "COMO",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "103",
+      "bus": "56"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "XUAN",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "BEX",
+      "first": "BILLY",
+      "grade": "4",
+      "classroom": "103",
+      "bus": "51"
+    },
+    {
+      "last": "BEX",
+      "first": "HYE",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "51"
+    },
+    {
+      "last": "BERBES",
+      "first": "XUAN",
+      "grade": "1",
+      "classroom": "112",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "DICK",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "BOYTER",
+      "first": "FLOY",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "TOMAS",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "WAN",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "TOMAS",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "CARTER",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "DIMPLE",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "HYE",
+      "grade": "3",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "55"
+    },
+    {
+      "last": "CORONADO",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "101",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "MANIE",
+      "grade": "1",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "56"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "HYE",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "56"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "ZANDRA",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "BEAN",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "CORKER",
+      "first": "ZANDRA",
+      "grade": "1",
+      "classroom": "111",
+      "bus": "56"
+    },
+    {
+      "last": "COOKUS",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "53"
+    },
+    {
+      "last": "BEAN",
+      "first": "DICK",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "ZANDRA",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "HYE",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "55"
+    },
+    {
+      "last": "BEX",
+      "first": "XUAN",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "BOYTER",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "106",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "XUAN",
+      "grade": "6",
+      "classroom": "110",
+      "bus": "56"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "XUAN",
+      "grade": "4",
+      "classroom": "105",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "ZANDRA",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "BILLY",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "55"
+    },
+    {
+      "last": "BOYTER",
+      "first": "INGER",
+      "grade": "3",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "FLOY",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "CORKER",
+      "first": "BILLY",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "55"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "RANDOLPH",
+      "grade": "1",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "CORONADO",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "XUAN",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "56"
+    },
+    {
+      "last": "BEX",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "51"
+    },
+    {
+      "last": "BERBES",
+      "first": "INGER",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "MANIE",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "XUAN",
+      "grade": "5",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "XUAN",
+      "grade": "3",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "CORKER",
+      "first": "FLOY",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "JANNETTE",
+      "grade": "1",
+      "classroom": "110",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "111",
+      "bus": "51"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "HYE",
+      "grade": "2",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "DIMPLE",
+      "grade": "6",
+      "classroom": "110",
+      "bus": "55"
+    },
+    {
+      "last": "BEAN",
+      "first": "INGER",
+      "grade": "5",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BEX",
+      "first": "DICK",
+      "grade": "5",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BEX",
+      "first": "DIMPLE",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "101",
+      "bus": "52"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "FLOY",
+      "grade": "2",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DIMPLE",
+      "grade": "3",
+      "classroom": "108",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "54"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "INGER",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "53"
+    },
+    {
+      "last": "CORKER",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "103",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "BEAN",
+      "first": "ZANDRA",
+      "grade": "3",
+      "classroom": "103",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "MANIE",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "55"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "101",
+      "bus": "51"
+    },
+    {
+      "last": "BEX",
+      "first": "ZANDRA",
+      "grade": "5",
+      "classroom": "104",
+      "bus": "55"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "COOKUS",
+      "first": "TAMESHA",
+      "grade": "3",
+      "classroom": "104",
+      "bus": "53"
+    },
+    {
+      "last": "BOYTER",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "54"
+    },
+    {
+      "last": "BERBES",
+      "first": "INGER",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "DIMPLE",
+      "grade": "2",
+      "classroom": "107",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "104",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "FLOY",
+      "grade": "1",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "BILLY",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "56"
+    },
+    {
+      "last": "BREVO",
+      "first": "TOMAS",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "DIMPLE",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "51"
+    },
+    {
+      "last": "BEAN",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "112",
+      "bus": "55"
+    },
+    {
+      "last": "BOYTER",
+      "first": "MANIE",
+      "grade": "4",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "CORONADO",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "BEX",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "112",
+      "bus": "54"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "INGER",
+      "grade": "2",
+      "classroom": "106",
+      "bus": "55"
+    },
+    {
+      "last": "CORKER",
+      "first": "BILLY",
+      "grade": "1",
+      "classroom": "103",
+      "bus": "56"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "BILLY",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "BERBES",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "MANIE",
+      "grade": "2",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "RANDOLPH",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "54"
+    },
+    {
+      "last": "COOKUS",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "51"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "DIMPLE",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "FLOY",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "RANDOLPH",
+      "grade": "3",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "XUAN",
+      "grade": "6",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "TOMAS",
+      "grade": "2",
+      "classroom": "108",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "CARTER",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "TOMAS",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "54"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "51"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "51"
+    },
+    {
+      "last": "BREVO",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "112",
+      "bus": "55"
+    },
+    {
+      "last": "COOKUS",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "COMO",
+      "first": "RANDOLPH",
+      "grade": "1",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "BEAN",
+      "first": "INGER",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "56"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "110",
+      "bus": "55"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "BILLY",
+      "grade": "4",
+      "classroom": "108",
+      "bus": "55"
+    },
+    {
+      "last": "CORKER",
+      "first": "HYE",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "102",
+      "bus": "51"
+    },
+    {
+      "last": "COMO",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "BREVO",
+      "first": "JANNETTE",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "MANIE",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "52"
+    },
+    {
+      "last": "BERBES",
+      "first": "FLOY",
+      "grade": "3",
+      "classroom": "112",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "TAMESHA",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "106",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "HYE",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "54"
+    },
+    {
+      "last": "CORKER",
+      "first": "ZANDRA",
+      "grade": "2",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BEX",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "52"
+    },
+    {
+      "last": "CORONADO",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "111",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "COMO",
+      "first": "INGER",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "CORONADO",
+      "first": "DIMPLE",
+      "grade": "5",
+      "classroom": "110",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "BILLY",
+      "grade": "5",
+      "classroom": "108",
+      "bus": "51"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "RANDOLPH",
+      "grade": "1",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "WAN",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BEAN",
+      "first": "FLOY",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "52"
+    },
+    {
+      "last": "BREVO",
+      "first": "RANDOLPH",
+      "grade": "6",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "DIMPLE",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "54"
+    },
+    {
+      "last": "BEX",
+      "first": "WAN",
+      "grade": "2",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "COOKUS",
+      "first": "BILLY",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "DIMPLE",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "51"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "BREVO",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "112",
+      "bus": "53"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "DICK",
+      "grade": "3",
+      "classroom": "111",
+      "bus": "51"
+    },
+    {
+      "last": "CORONADO",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "BEX",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "BEAN",
+      "first": "XUAN",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "HYE",
+      "grade": "3",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "BERBES",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "108",
+      "bus": "56"
+    },
+    {
+      "last": "BEX",
+      "first": "FLOY",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "MANIE",
+      "grade": "5",
+      "classroom": "105",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "RANDOLPH",
+      "grade": "4",
+      "classroom": "111",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "4",
+      "classroom": "109",
+      "bus": "54"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "103",
+      "bus": "55"
+    },
+    {
+      "last": "BEX",
+      "first": "HYE",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "COMO",
+      "first": "FLOY",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "54"
+    },
+    {
+      "last": "BREVO",
+      "first": "BILLY",
+      "grade": "3",
+      "classroom": "109",
+      "bus": "55"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "56"
+    },
+    {
+      "last": "BOYTER",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "56"
+    },
+    {
+      "last": "CORONADO",
+      "first": "ZANDRA",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "BILLY",
+      "grade": "1",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "JANNETTE",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "55"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "TOMAS",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "53"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "52"
+    },
+    {
+      "last": "COMO",
+      "first": "XUAN",
+      "grade": "2",
+      "classroom": "104",
+      "bus": "55"
+    },
+    {
+      "last": "BEX",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "BEAN",
+      "first": "TAMESHA",
+      "grade": "6",
+      "classroom": "109",
+      "bus": "54"
+    },
+    {
+      "last": "COMO",
+      "first": "FLOY",
+      "grade": "1",
+      "classroom": "105",
+      "bus": "53"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "DICK",
+      "grade": "2",
+      "classroom": "111",
+      "bus": "54"
+    },
+    {
+      "last": "BEX",
+      "first": "HYE",
+      "grade": "6",
+      "classroom": "103",
+      "bus": "56"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "INGER",
+      "grade": "1",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "111",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "JANNETTE",
+      "grade": "5",
+      "classroom": "109",
+      "bus": "56"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "106",
+      "bus": "52"
+    },
+    {
+      "last": "CORONADO",
+      "first": "TOMAS",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "53"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "56"
+    },
+    {
+      "last": "BOYTER",
+      "first": "JANNETTE",
+      "grade": "1",
+      "classroom": "106",
+      "bus": "56"
+    },
+    {
+      "last": "BERBES",
+      "first": "CARTER",
+      "grade": "4",
+      "classroom": "104",
+      "bus": "54"
+    },
+    {
+      "last": "BOYTER",
+      "first": "XUAN",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "BEAN",
+      "first": "TOMAS",
+      "grade": "1",
+      "classroom": "104",
+      "bus": "53"
+    },
+    {
+      "last": "COMO",
+      "first": "WAN",
+      "grade": "5",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "52"
+    },
+    {
+      "last": "BOYTER",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "107",
+      "bus": "54"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "RANDOLPH",
+      "grade": "2",
+      "classroom": "105",
+      "bus": "56"
+    },
+    {
+      "last": "BEX",
+      "first": "INGER",
+      "grade": "6",
+      "classroom": "101",
+      "bus": "52"
+    },
+    {
+      "last": "BEX",
+      "first": "BILLY",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "51"
+    },
+    {
+      "last": "BOYTER",
+      "first": "RANDOLPH",
+      "grade": "1",
+      "classroom": "107",
+      "bus": "53"
+    },
+    {
+      "last": "CORONADO",
+      "first": "MANIE",
+      "grade": "3",
+      "classroom": "101",
+      "bus": "54"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "INGER",
+      "grade": "1",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "WAN",
+      "grade": "4",
+      "classroom": "103",
+      "bus": "54"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "112",
+      "bus": "55"
+    },
+    {
+      "last": "COVINGTON",
+      "first": "ZANDRA",
+      "grade": "1",
+      "classroom": "101",
+      "bus": "53"
+    },
+    {
+      "last": "CIGANEK",
+      "first": "WAN",
+      "grade": "6",
+      "classroom": "104",
+      "bus": "51"
+    },
+    {
+      "last": "BEX",
+      "first": "MANIE",
+      "grade": "6",
+      "classroom": "108",
+      "bus": "53"
+    },
+    {
+      "last": "BUSSMANN",
+      "first": "INGER",
+      "grade": "4",
+      "classroom": "101",
+      "bus": "52"
+    },
+    {
+      "last": "CLECKLER",
+      "first": "FLOY",
+      "grade": "5",
+      "classroom": "102",
+      "bus": "55"
+    },
+    {
+      "last": "BRODERSEN",
+      "first": "DICK",
+      "grade": "6",
+      "classroom": "110",
+      "bus": "53"
+    },
+    {
+      "last": "CORKER",
+      "first": "DIMPLE",
+      "grade": "5",
+      "classroom": "103",
+      "bus": "52"
+    },
+    {
+      "last": "CREMEANS",
+      "first": "CARTER",
+      "grade": "2",
+      "classroom": "102",
+      "bus": "56"
+    },
+    {
+      "last": "CORKER",
+      "first": "TAMESHA",
+      "grade": "5",
+      "classroom": "107",
+      "bus": "53"
+    },
+    {
+      "last": "Test",
+      "first": "Test",
+      "grade": "0",
+      "classroom": "0",
+      "bus": "0"
+    }
+  ],
+  "teachers": [
+    {
+      "last": "FAFARD",
+      "first": "ROCIO",
+      "classroom": "107"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JAE",
+      "classroom": "109"
+    },
+    {
+      "last": "KERBS",
+      "first": "BENITO",
+      "classroom": "102"
+    },
+    {
+      "last": "STEIB",
+      "first": "GALE",
+      "classroom": "104"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "NANCY",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "110"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "108"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "106"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "FALKER",
+      "first": "ADOLPH",
+      "classroom": "103"
+    },
+    {
+      "last": "COOL",
+      "first": "REUBEN",
+      "classroom": "101"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "106"
+    },
+    {
+      "last": "HAMER",
+      "first": "ROCIO",
+      "classroom": "106"
+    },
+    {
+      "last": "KERBS",
+      "first": "ADOLPH",
+      "classroom": "108"
+    },
+    {
+      "last": "KERBS",
+      "first": "JAE",
+      "classroom": "101"
+    },
+    {
+      "last": "KERBS",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "103"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "FAFARD",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "FALKER",
+      "first": "ADOLPH",
+      "classroom": "112"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "PERLA",
+      "classroom": "105"
+    },
+    {
+      "last": "HAMER",
+      "first": "LUZ",
+      "classroom": "106"
+    },
+    {
+      "last": "FALKER",
+      "first": "REUBEN",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "107"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "106"
+    },
+    {
+      "last": "FALKER",
+      "first": "JAE",
+      "classroom": "101"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "112"
+    },
+    {
+      "last": "HAMER",
+      "first": "JED",
+      "classroom": "101"
+    },
+    {
+      "last": "FALKER",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "FAFARD",
+      "first": "ADOLPH",
+      "classroom": "106"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "112"
+    },
+    {
+      "last": "HANTZ",
+      "first": "GAVIN",
+      "classroom": "107"
+    },
+    {
+      "last": "COOL",
+      "first": "ROCIO",
+      "classroom": "112"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "ADOLPH",
+      "classroom": "107"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "NANCY",
+      "classroom": "106"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "LUZ",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "BENITO",
+      "classroom": "112"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JED",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "GAVIN",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ADOLPH",
+      "classroom": "107"
+    },
+    {
+      "last": "STEIB",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "KERBS",
+      "first": "JED",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "JAE",
+      "classroom": "104"
+    },
+    {
+      "last": "KERBS",
+      "first": "JAE",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JED",
+      "classroom": "104"
+    },
+    {
+      "last": "ALPERT",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "NANCY",
+      "classroom": "112"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "NANCY",
+      "classroom": "107"
+    },
+    {
+      "last": "COOL",
+      "first": "JONATHAN",
+      "classroom": "107"
+    },
+    {
+      "last": "HAMER",
+      "first": "NANCY",
+      "classroom": "112"
+    },
+    {
+      "last": "FAFARD",
+      "first": "ROCIO",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "106"
+    },
+    {
+      "last": "HANTZ",
+      "first": "GAVIN",
+      "classroom": "106"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "ROCIO",
+      "classroom": "104"
+    },
+    {
+      "last": "KERBS",
+      "first": "JED",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "JAE",
+      "classroom": "106"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JED",
+      "classroom": "102"
+    },
+    {
+      "last": "COOL",
+      "first": "NANCY",
+      "classroom": "106"
+    },
+    {
+      "last": "HAMER",
+      "first": "JONATHAN",
+      "classroom": "110"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JAE",
+      "classroom": "110"
+    },
+    {
+      "last": "FAFARD",
+      "first": "ROCIO",
+      "classroom": "103"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "110"
+    },
+    {
+      "last": "FALKER",
+      "first": "JONATHAN",
+      "classroom": "112"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "BENITO",
+      "classroom": "110"
+    },
+    {
+      "last": "COOL",
+      "first": "JONATHAN",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "ROCIO",
+      "classroom": "106"
+    },
+    {
+      "last": "COOL",
+      "first": "ADOLPH",
+      "classroom": "108"
+    },
+    {
+      "last": "COOL",
+      "first": "REUBEN",
+      "classroom": "104"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JED",
+      "classroom": "111"
+    },
+    {
+      "last": "FAFARD",
+      "first": "GAVIN",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "FAFARD",
+      "first": "GAVIN",
+      "classroom": "109"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "111"
+    },
+    {
+      "last": "KERBS",
+      "first": "ADOLPH",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "PERLA",
+      "classroom": "111"
+    },
+    {
+      "last": "COOL",
+      "first": "ADOLPH",
+      "classroom": "105"
+    },
+    {
+      "last": "STEIB",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "STEIB",
+      "first": "ROCIO",
+      "classroom": "101"
+    },
+    {
+      "last": "KERBS",
+      "first": "JED",
+      "classroom": "106"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "104"
+    },
+    {
+      "last": "HANTZ",
+      "first": "NANCY",
+      "classroom": "108"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "112"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JED",
+      "classroom": "103"
+    },
+    {
+      "last": "COOL",
+      "first": "REUBEN",
+      "classroom": "103"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ROCIO",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "JED",
+      "classroom": "107"
+    },
+    {
+      "last": "FALKER",
+      "first": "JONATHAN",
+      "classroom": "101"
+    },
+    {
+      "last": "COOL",
+      "first": "ROCIO",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "108"
+    },
+    {
+      "last": "HANTZ",
+      "first": "BENITO",
+      "classroom": "108"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "REUBEN",
+      "classroom": "110"
+    },
+    {
+      "last": "KERBS",
+      "first": "JED",
+      "classroom": "112"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "NANCY",
+      "classroom": "107"
+    },
+    {
+      "last": "COOL",
+      "first": "LUZ",
+      "classroom": "104"
+    },
+    {
+      "last": "HAMER",
+      "first": "ROCIO",
+      "classroom": "104"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ADOLPH",
+      "classroom": "110"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ROCIO",
+      "classroom": "112"
+    },
+    {
+      "last": "KERBS",
+      "first": "PERLA",
+      "classroom": "107"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "103"
+    },
+    {
+      "last": "KERBS",
+      "first": "PERLA",
+      "classroom": "103"
+    },
+    {
+      "last": "KERBS",
+      "first": "JAE",
+      "classroom": "111"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JONATHAN",
+      "classroom": "101"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "104"
+    },
+    {
+      "last": "KERBS",
+      "first": "NANCY",
+      "classroom": "105"
+    },
+    {
+      "last": "ALPERT",
+      "first": "LUZ",
+      "classroom": "104"
+    },
+    {
+      "last": "STEIB",
+      "first": "LUZ",
+      "classroom": "107"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "109"
+    },
+    {
+      "last": "ALPERT",
+      "first": "LUZ",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "BENITO",
+      "classroom": "108"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "NANCY",
+      "classroom": "107"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "101"
+    },
+    {
+      "last": "HAMER",
+      "first": "REUBEN",
+      "classroom": "104"
+    },
+    {
+      "last": "STEIB",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "STEIB",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "GAVIN",
+      "classroom": "107"
+    },
+    {
+      "last": "COOL",
+      "first": "REUBEN",
+      "classroom": "112"
+    },
+    {
+      "last": "HANTZ",
+      "first": "NANCY",
+      "classroom": "106"
+    },
+    {
+      "last": "FAFARD",
+      "first": "REUBEN",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "JAE",
+      "classroom": "102"
+    },
+    {
+      "last": "FAFARD",
+      "first": "LUZ",
+      "classroom": "107"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JONATHAN",
+      "classroom": "108"
+    },
+    {
+      "last": "ALPERT",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "PERLA",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "104"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ROCIO",
+      "classroom": "105"
+    },
+    {
+      "last": "FALKER",
+      "first": "ROCIO",
+      "classroom": "108"
+    },
+    {
+      "last": "ALPERT",
+      "first": "REUBEN",
+      "classroom": "104"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "GAVIN",
+      "classroom": "103"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "COOL",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "110"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ADOLPH",
+      "classroom": "102"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JAE",
+      "classroom": "107"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "112"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "111"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "109"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "112"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "ADOLPH",
+      "classroom": "109"
+    },
+    {
+      "last": "HANTZ",
+      "first": "PERLA",
+      "classroom": "108"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ADOLPH",
+      "classroom": "105"
+    },
+    {
+      "last": "STEIB",
+      "first": "REUBEN",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "103"
+    },
+    {
+      "last": "FAFARD",
+      "first": "ROCIO",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "REUBEN",
+      "classroom": "104"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "103"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JED",
+      "classroom": "110"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "REUBEN",
+      "classroom": "105"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "KERBS",
+      "first": "JED",
+      "classroom": "101"
+    },
+    {
+      "last": "FALKER",
+      "first": "BENITO",
+      "classroom": "106"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JED",
+      "classroom": "104"
+    },
+    {
+      "last": "FAFARD",
+      "first": "REUBEN",
+      "classroom": "106"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "101"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "111"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "LUZ",
+      "classroom": "101"
+    },
+    {
+      "last": "FAFARD",
+      "first": "BENITO",
+      "classroom": "110"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "109"
+    },
+    {
+      "last": "HAMER",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "KERBS",
+      "first": "LUZ",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ROCIO",
+      "classroom": "105"
+    },
+    {
+      "last": "FAFARD",
+      "first": "NANCY",
+      "classroom": "112"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "KERBS",
+      "first": "GAVIN",
+      "classroom": "101"
+    },
+    {
+      "last": "FAFARD",
+      "first": "ADOLPH",
+      "classroom": "110"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "112"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "104"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JAE",
+      "classroom": "110"
+    },
+    {
+      "last": "FALKER",
+      "first": "JAE",
+      "classroom": "108"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ROCIO",
+      "classroom": "106"
+    },
+    {
+      "last": "STEIB",
+      "first": "JONATHAN",
+      "classroom": "112"
+    },
+    {
+      "last": "STEIB",
+      "first": "JAE",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "BENITO",
+      "classroom": "110"
+    },
+    {
+      "last": "STEIB",
+      "first": "NANCY",
+      "classroom": "101"
+    },
+    {
+      "last": "HAMER",
+      "first": "REUBEN",
+      "classroom": "103"
+    },
+    {
+      "last": "HAMER",
+      "first": "LUZ",
+      "classroom": "104"
+    },
+    {
+      "last": "HANTZ",
+      "first": "BENITO",
+      "classroom": "109"
+    },
+    {
+      "last": "HANTZ",
+      "first": "BENITO",
+      "classroom": "106"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "ROCIO",
+      "classroom": "106"
+    },
+    {
+      "last": "HANTZ",
+      "first": "GAVIN",
+      "classroom": "108"
+    },
+    {
+      "last": "FAFARD",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "ALPERT",
+      "first": "REUBEN",
+      "classroom": "103"
+    },
+    {
+      "last": "KERBS",
+      "first": "LUZ",
+      "classroom": "105"
+    },
+    {
+      "last": "ALPERT",
+      "first": "LUZ",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ADOLPH",
+      "classroom": "112"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JONATHAN",
+      "classroom": "106"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ROCIO",
+      "classroom": "110"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "109"
+    },
+    {
+      "last": "FAFARD",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "JONATHAN",
+      "classroom": "106"
+    },
+    {
+      "last": "ALPERT",
+      "first": "GAVIN",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "111"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "GAVIN",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "110"
+    },
+    {
+      "last": "HAMER",
+      "first": "ROCIO",
+      "classroom": "101"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "102"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "NANCY",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "101"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "BENITO",
+      "classroom": "106"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "111"
+    },
+    {
+      "last": "KERBS",
+      "first": "GAVIN",
+      "classroom": "102"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "107"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "GAVIN",
+      "classroom": "107"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "PERLA",
+      "classroom": "106"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "PERLA",
+      "classroom": "107"
+    },
+    {
+      "last": "FALKER",
+      "first": "ADOLPH",
+      "classroom": "108"
+    },
+    {
+      "last": "ALPERT",
+      "first": "GAVIN",
+      "classroom": "101"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "PERLA",
+      "classroom": "103"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "108"
+    },
+    {
+      "last": "KERBS",
+      "first": "JONATHAN",
+      "classroom": "102"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "104"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "108"
+    },
+    {
+      "last": "HAMER",
+      "first": "ADOLPH",
+      "classroom": "109"
+    },
+    {
+      "last": "KERBS",
+      "first": "JONATHAN",
+      "classroom": "111"
+    },
+    {
+      "last": "COOL",
+      "first": "ROCIO",
+      "classroom": "110"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JAE",
+      "classroom": "111"
+    },
+    {
+      "last": "FALKER",
+      "first": "REUBEN",
+      "classroom": "107"
+    },
+    {
+      "last": "STEIB",
+      "first": "ADOLPH",
+      "classroom": "102"
+    },
+    {
+      "last": "ALPERT",
+      "first": "NANCY",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "110"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "108"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ROCIO",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "BENITO",
+      "classroom": "108"
+    },
+    {
+      "last": "FAFARD",
+      "first": "PERLA",
+      "classroom": "109"
+    },
+    {
+      "last": "ALPERT",
+      "first": "NANCY",
+      "classroom": "104"
+    },
+    {
+      "last": "HAMER",
+      "first": "BENITO",
+      "classroom": "101"
+    },
+    {
+      "last": "HAMER",
+      "first": "PERLA",
+      "classroom": "109"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "108"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "108"
+    },
+    {
+      "last": "STEIB",
+      "first": "REUBEN",
+      "classroom": "108"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "111"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "102"
+    },
+    {
+      "last": "STEIB",
+      "first": "LUZ",
+      "classroom": "103"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "106"
+    },
+    {
+      "last": "KERBS",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "HAMER",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "ADOLPH",
+      "classroom": "104"
+    },
+    {
+      "last": "KERBS",
+      "first": "JAE",
+      "classroom": "112"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ADOLPH",
+      "classroom": "111"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "BENITO",
+      "classroom": "107"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "PERLA",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "109"
+    },
+    {
+      "last": "FAFARD",
+      "first": "GAVIN",
+      "classroom": "101"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "ROCIO",
+      "classroom": "107"
+    },
+    {
+      "last": "FALKER",
+      "first": "JAE",
+      "classroom": "106"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "COOL",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "HAMER",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "HAMER",
+      "first": "JAE",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "GAVIN",
+      "classroom": "112"
+    },
+    {
+      "last": "COOL",
+      "first": "ROCIO",
+      "classroom": "106"
+    },
+    {
+      "last": "HAMER",
+      "first": "ROCIO",
+      "classroom": "102"
+    },
+    {
+      "last": "COOL",
+      "first": "JAE",
+      "classroom": "112"
+    },
+    {
+      "last": "KERBS",
+      "first": "ADOLPH",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "109"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "111"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JAE",
+      "classroom": "109"
+    },
+    {
+      "last": "HAMER",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JONATHAN",
+      "classroom": "108"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "108"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "101"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "109"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JED",
+      "classroom": "109"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "LUZ",
+      "classroom": "112"
+    },
+    {
+      "last": "STEIB",
+      "first": "JONATHAN",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "112"
+    },
+    {
+      "last": "STEIB",
+      "first": "NANCY",
+      "classroom": "110"
+    },
+    {
+      "last": "ALPERT",
+      "first": "LUZ",
+      "classroom": "110"
+    },
+    {
+      "last": "HAMER",
+      "first": "BENITO",
+      "classroom": "108"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "NANCY",
+      "classroom": "111"
+    },
+    {
+      "last": "HAMER",
+      "first": "NANCY",
+      "classroom": "104"
+    },
+    {
+      "last": "ALPERT",
+      "first": "GAVIN",
+      "classroom": "106"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ROCIO",
+      "classroom": "101"
+    },
+    {
+      "last": "HANTZ",
+      "first": "NANCY",
+      "classroom": "112"
+    },
+    {
+      "last": "HAMER",
+      "first": "BENITO",
+      "classroom": "112"
+    },
+    {
+      "last": "FALKER",
+      "first": "ADOLPH",
+      "classroom": "106"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "LUZ",
+      "classroom": "102"
+    },
+    {
+      "last": "HANTZ",
+      "first": "LUZ",
+      "classroom": "109"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "105"
+    },
+    {
+      "last": "HAMER",
+      "first": "PERLA",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "GAVIN",
+      "classroom": "103"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "LUZ",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JAE",
+      "classroom": "108"
+    },
+    {
+      "last": "FAFARD",
+      "first": "PERLA",
+      "classroom": "106"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "109"
+    },
+    {
+      "last": "ALPERT",
+      "first": "NANCY",
+      "classroom": "107"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ROCIO",
+      "classroom": "109"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "109"
+    },
+    {
+      "last": "HAMER",
+      "first": "BENITO",
+      "classroom": "109"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "ADOLPH",
+      "classroom": "106"
+    },
+    {
+      "last": "STEIB",
+      "first": "JAE",
+      "classroom": "103"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JAE",
+      "classroom": "111"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "STEIB",
+      "first": "GAVIN",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "103"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JAE",
+      "classroom": "102"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "111"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "103"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "COOL",
+      "first": "BENITO",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "PERLA",
+      "classroom": "109"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "STEIB",
+      "first": "ROCIO",
+      "classroom": "105"
+    },
+    {
+      "last": "KERBS",
+      "first": "REUBEN",
+      "classroom": "103"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "REUBEN",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "ROCIO",
+      "classroom": "103"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "NANCY",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "105"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "111"
+    },
+    {
+      "last": "FAFARD",
+      "first": "NANCY",
+      "classroom": "103"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "LUZ",
+      "classroom": "103"
+    },
+    {
+      "last": "KERBS",
+      "first": "BENITO",
+      "classroom": "111"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "106"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "BENITO",
+      "classroom": "101"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ADOLPH",
+      "classroom": "106"
+    },
+    {
+      "last": "KERBS",
+      "first": "GAVIN",
+      "classroom": "104"
+    },
+    {
+      "last": "STEIB",
+      "first": "JED",
+      "classroom": "107"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JED",
+      "classroom": "102"
+    },
+    {
+      "last": "HANTZ",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "101"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JONATHAN",
+      "classroom": "103"
+    },
+    {
+      "last": "ALPERT",
+      "first": "BENITO",
+      "classroom": "107"
+    },
+    {
+      "last": "FALKER",
+      "first": "ROCIO",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "112"
+    },
+    {
+      "last": "STEIB",
+      "first": "PERLA",
+      "classroom": "104"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ADOLPH",
+      "classroom": "108"
+    },
+    {
+      "last": "HANTZ",
+      "first": "GAVIN",
+      "classroom": "102"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "LUZ",
+      "classroom": "103"
+    },
+    {
+      "last": "FAFARD",
+      "first": "REUBEN",
+      "classroom": "107"
+    },
+    {
+      "last": "HAMER",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "110"
+    },
+    {
+      "last": "HAMER",
+      "first": "REUBEN",
+      "classroom": "101"
+    },
+    {
+      "last": "STEIB",
+      "first": "BENITO",
+      "classroom": "112"
+    },
+    {
+      "last": "COOL",
+      "first": "GAVIN",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "REUBEN",
+      "classroom": "107"
+    },
+    {
+      "last": "FAFARD",
+      "first": "LUZ",
+      "classroom": "102"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JONATHAN",
+      "classroom": "107"
+    },
+    {
+      "last": "ALPERT",
+      "first": "NANCY",
+      "classroom": "108"
+    },
+    {
+      "last": "KERBS",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "JAE",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "102"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ROCIO",
+      "classroom": "104"
+    },
+    {
+      "last": "FALKER",
+      "first": "ROCIO",
+      "classroom": "105"
+    },
+    {
+      "last": "ALPERT",
+      "first": "REUBEN",
+      "classroom": "108"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "GAVIN",
+      "classroom": "104"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "103"
+    },
+    {
+      "last": "COOL",
+      "first": "JAE",
+      "classroom": "110"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ADOLPH",
+      "classroom": "110"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JAE",
+      "classroom": "110"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "107"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "ADOLPH",
+      "classroom": "112"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ADOLPH",
+      "classroom": "108"
+    },
+    {
+      "last": "STEIB",
+      "first": "REUBEN",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "110"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JED",
+      "classroom": "105"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "REUBEN",
+      "classroom": "110"
+    },
+    {
+      "last": "FALKER",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JED",
+      "classroom": "106"
+    },
+    {
+      "last": "FAFARD",
+      "first": "REUBEN",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "104"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JONATHAN",
+      "classroom": "106"
+    },
+    {
+      "last": "FAFARD",
+      "first": "BENITO",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "HAMER",
+      "first": "ADOLPH",
+      "classroom": "110"
+    },
+    {
+      "last": "KERBS",
+      "first": "LUZ",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ROCIO",
+      "classroom": "101"
+    },
+    {
+      "last": "FAFARD",
+      "first": "NANCY",
+      "classroom": "105"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "101"
+    },
+    {
+      "last": "KERBS",
+      "first": "GAVIN",
+      "classroom": "112"
+    },
+    {
+      "last": "FAFARD",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "106"
+    },
+    {
+      "last": "FALKER",
+      "first": "JAE",
+      "classroom": "104"
+    },
+    {
+      "last": "ALPERT",
+      "first": "ROCIO",
+      "classroom": "110"
+    },
+    {
+      "last": "STEIB",
+      "first": "JONATHAN",
+      "classroom": "108"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "106"
+    },
+    {
+      "last": "STEIB",
+      "first": "JAE",
+      "classroom": "112"
+    },
+    {
+      "last": "STEIB",
+      "first": "NANCY",
+      "classroom": "111"
+    },
+    {
+      "last": "HAMER",
+      "first": "REUBEN",
+      "classroom": "110"
+    },
+    {
+      "last": "HAMER",
+      "first": "LUZ",
+      "classroom": "101"
+    },
+    {
+      "last": "HANTZ",
+      "first": "BENITO",
+      "classroom": "103"
+    },
+    {
+      "last": "HANTZ",
+      "first": "BENITO",
+      "classroom": "104"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "ROCIO",
+      "classroom": "109"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ADOLPH",
+      "classroom": "103"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JONATHAN",
+      "classroom": "110"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "106"
+    },
+    {
+      "last": "ALPERT",
+      "first": "GAVIN",
+      "classroom": "105"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "106"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "102"
+    },
+    {
+      "last": "COOL",
+      "first": "GAVIN",
+      "classroom": "111"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "104"
+    },
+    {
+      "last": "HAMER",
+      "first": "ROCIO",
+      "classroom": "103"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "110"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "REUBEN",
+      "classroom": "102"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "NANCY",
+      "classroom": "112"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "LUZ",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "101"
+    },
+    {
+      "last": "KERBS",
+      "first": "GAVIN",
+      "classroom": "106"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "JONATHAN",
+      "classroom": "111"
+    },
+    {
+      "last": "HAMER",
+      "first": "GAVIN",
+      "classroom": "107"
+    },
+    {
+      "last": "FALKER",
+      "first": "PERLA",
+      "classroom": "105"
+    },
+    {
+      "last": "FALKER",
+      "first": "REUBEN",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "106"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "FALKER",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "ALPERT",
+      "first": "GAVIN",
+      "classroom": "107"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "NANCY",
+      "classroom": "108"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "JONATHAN",
+      "classroom": "103"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JAE",
+      "classroom": "102"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "HAMER",
+      "first": "ADOLPH",
+      "classroom": "105"
+    },
+    {
+      "last": "KERBS",
+      "first": "JONATHAN",
+      "classroom": "108"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ROCIO",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JED",
+      "classroom": "111"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JAE",
+      "classroom": "104"
+    },
+    {
+      "last": "STEIB",
+      "first": "ADOLPH",
+      "classroom": "111"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "105"
+    },
+    {
+      "last": "FAFARD",
+      "first": "PERLA",
+      "classroom": "104"
+    },
+    {
+      "last": "HAMER",
+      "first": "PERLA",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "108"
+    },
+    {
+      "last": "STEIB",
+      "first": "LUZ",
+      "classroom": "111"
+    },
+    {
+      "last": "ALPERT",
+      "first": "JED",
+      "classroom": "102"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "106"
+    },
+    {
+      "last": "HAMER",
+      "first": "JONATHAN",
+      "classroom": "108"
+    },
+    {
+      "last": "STEIB",
+      "first": "BENITO",
+      "classroom": "101"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "BENITO",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "PERLA",
+      "classroom": "111"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "107"
+    },
+    {
+      "last": "FAFARD",
+      "first": "GAVIN",
+      "classroom": "104"
+    },
+    {
+      "last": "ALPERT",
+      "first": "PERLA",
+      "classroom": "107"
+    },
+    {
+      "last": "FALKER",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "HAMER",
+      "first": "JAE",
+      "classroom": "112"
+    },
+    {
+      "last": "COOL",
+      "first": "ROCIO",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "LUZ",
+      "classroom": "112"
+    },
+    {
+      "last": "COOL",
+      "first": "JAE",
+      "classroom": "103"
+    },
+    {
+      "last": "KERBS",
+      "first": "ADOLPH",
+      "classroom": "102"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "112"
+    },
+    {
+      "last": "FALKER",
+      "first": "GAVIN",
+      "classroom": "103"
+    },
+    {
+      "last": "HAMER",
+      "first": "JED",
+      "classroom": "111"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "109"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JONATHAN",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "107"
+    },
+    {
+      "last": "HANTZ",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "LUZ",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "ALPERT",
+      "first": "LUZ",
+      "classroom": "112"
+    },
+    {
+      "last": "HAMER",
+      "first": "BENITO",
+      "classroom": "110"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "NANCY",
+      "classroom": "110"
+    },
+    {
+      "last": "HAMER",
+      "first": "NANCY",
+      "classroom": "111"
+    },
+    {
+      "last": "HANTZ",
+      "first": "LUZ",
+      "classroom": "106"
+    },
+    {
+      "last": "STEIB",
+      "first": "GAVIN",
+      "classroom": "105"
+    },
+    {
+      "last": "COOL",
+      "first": "LUZ",
+      "classroom": "103"
+    },
+    {
+      "last": "FAFARD",
+      "first": "PERLA",
+      "classroom": "110"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "108"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "BENITO",
+      "classroom": "106"
+    },
+    {
+      "last": "ALPERT",
+      "first": "NANCY",
+      "classroom": "109"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ROCIO",
+      "classroom": "107"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "ADOLPH",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "JAE",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "JONATHAN",
+      "classroom": "106"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "JAE",
+      "classroom": "103"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "PERLA",
+      "classroom": "112"
+    },
+    {
+      "last": "KERBS",
+      "first": "NANCY",
+      "classroom": "111"
+    },
+    {
+      "last": "STEIB",
+      "first": "GAVIN",
+      "classroom": "102"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "102"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JAE",
+      "classroom": "103"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "105"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JAE",
+      "classroom": "111"
+    },
+    {
+      "last": "COOL",
+      "first": "NANCY",
+      "classroom": "109"
+    },
+    {
+      "last": "COOL",
+      "first": "PERLA",
+      "classroom": "103"
+    },
+    {
+      "last": "COOL",
+      "first": "BENITO",
+      "classroom": "106"
+    },
+    {
+      "last": "HANTZ",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JONATHAN",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "ROCIO",
+      "classroom": "103"
+    },
+    {
+      "last": "KERBS",
+      "first": "REUBEN",
+      "classroom": "104"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "REUBEN",
+      "classroom": "105"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JONATHAN",
+      "classroom": "104"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "NANCY",
+      "classroom": "101"
+    },
+    {
+      "last": "HANTZ",
+      "first": "JED",
+      "classroom": "104"
+    },
+    {
+      "last": "HANTZ",
+      "first": "REUBEN",
+      "classroom": "103"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "LUZ",
+      "classroom": "111"
+    },
+    {
+      "last": "KERBS",
+      "first": "BENITO",
+      "classroom": "103"
+    },
+    {
+      "last": "BODZIONY",
+      "first": "JONATHAN",
+      "classroom": "103"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "BENITO",
+      "classroom": "109"
+    },
+    {
+      "last": "STEIB",
+      "first": "JED",
+      "classroom": "106"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JED",
+      "classroom": "107"
+    },
+    {
+      "last": "HANTZ",
+      "first": "NANCY",
+      "classroom": "104"
+    },
+    {
+      "last": "COOL",
+      "first": "JONATHAN",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "JED",
+      "classroom": "102"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "GAVIN",
+      "classroom": "107"
+    },
+    {
+      "last": "FAFARD",
+      "first": "JONATHAN",
+      "classroom": "105"
+    },
+    {
+      "last": "ALPERT",
+      "first": "BENITO",
+      "classroom": "101"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "JAE",
+      "classroom": "103"
+    },
+    {
+      "last": "FALKER",
+      "first": "ROCIO",
+      "classroom": "107"
+    },
+    {
+      "last": "NISTENDIRK",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "FALKER",
+      "first": "NANCY",
+      "classroom": "102"
+    },
+    {
+      "last": "CHIONCHIO",
+      "first": "ADOLPH",
+      "classroom": "101"
+    },
+    {
+      "last": "GAMBREL",
+      "first": "LUZ",
+      "classroom": "102"
+    },
+    {
+      "last": "KERBS",
+      "first": "BENITO",
+      "classroom": "110"
+    },
+    {
+      "last": "FAFARD",
+      "first": "REUBEN",
+      "classroom": "103"
+    },
+    {
+      "last": "HAMER",
+      "first": "PERLA",
+      "classroom": "102"
+    },
+    {
+      "last": "FALKER",
+      "first": "BENITO",
+      "classroom": "107"
+    }
+  ],
+  "export_time": "2025-11-14T14:38:22.562265"
+}
